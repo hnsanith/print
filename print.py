@@ -1,4 +1,4 @@
-("program to fing gereater of two number")
+print("program to fing gereater of two number")
 z=50
 x=300
 if z>x:
